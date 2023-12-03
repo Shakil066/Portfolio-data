@@ -2,36 +2,32 @@
     {
         "id": 1,
         "name": "SQL",
-        "photo": "https://ashraf-sakil.imgbb.com/"
+        "photo": "https://i.ibb.co/2nXWybG/Sql1.jpg"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Excel",
-        "photo": "https://ashraf-sakil.imgbb.com/"
+        "photo": "https://i.ibb.co/s36jQFH/modern-monitor-elegant-table.jpg"
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Tableau",
-        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+        "photo": "https://i.ibb.co/z5fj19P/imag-tableau.png"
     },
+
     {
-        "id": 1,
-        "name": "Excel",
-        "photo": ""
-    },
-    {
-        "id": 1,
+        "id": 4,
         "name": "Python",
-        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+        "photo": "https://i.ibb.co/SJNqj0C/ai-site-helping-with-software-production.jpg"
     },
     {
-        "id": 1,
+        "id": 5,
         "name": "Looker Studio",
-        "photo": "https://ashraf-sakil.imgbb.com/?sort=date_asc"
+        "photo": "https://i.ibb.co/R7x1vfw/LOOKER.png"
     },
     {
-        "id": 1,
+        "id": 6,
         "name": "Power BI",
-        "photo": "https://ashraf-sakil.imgbb.com/"
+        "photo": "https://i.ibb.co/S3SqNk6/laptop-computer-with-marketing-statistics-graphs-screen-standing-table-startup-office-coworkers-disc.jpg"
     }
 ]
