@@ -28,5 +28,10 @@
         "id": 6,
         "name": "Power BI",
         "photo": "https://i.ibb.co/S3SqNk6/laptop-computer-with-marketing-statistics-graphs-screen-standing-table-startup-office-coworkers-disc.jpg"
+    },
+    {
+        "id" : 7,
+        "name": 'Google Data Studio',
+        "photo":"https://logowik.com/content/uploads/images/google-data-studio5269.logowik.com.webp"
     }
 ]
