@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "project_id":6,
-        "title": "Unicorn Company Detais and go to the cumilla and buy somthing",
+        "project_id":5,
+        "title": "Unicorn Company Details",
         "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://github.com/Shakil066/Power-BI-/blob/main/Unicorn_Companies.pbix",
         "details": [
