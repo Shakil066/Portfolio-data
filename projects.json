@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "project_id": 6,
+        "project_id":6,
         "title": "Unicorn Company Detais and go to the cumilla and buy somthing",
         "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://github.com/Shakil066/Power-BI-/blob/main/Unicorn_Companies.pbix",
@@ -25,7 +25,7 @@
     },
     {
         "id": 2,
-        "project_id": 7,
+        "project_id":6,
         "title": "Unicorn Company Detais and go to the cumilla and buy somthing",
         "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -49,7 +49,7 @@
     },
      {
         "id": 3,
-        "project_id": 2,
+        "project_id":3,
         "title": "Car Sales Analysis",
         "photo": "https://i.ibb.co/px9s1qt/Dashboard-1-4.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -68,39 +68,6 @@
                     "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
                     "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
                 ]
-            }
-        ]
-    },
-     {
-        "id": 4,
-        "project_id": 5,
-        "title": "Analysis",
-        "photo": "https://i.ibb.co/X7YL2wh/1693843258159.jpg",
-        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
-        "details": [
-            {
-                "heading":"Total Customers is 6687 and unique customers are the same as total Customers",
-                "items": []
-            },
-            {
-                "heading":"Most churn Customers and Churn Rates exist when the Customers are above 30 years old. That is 1500 and 27.8%. On the other hand, when Customers are less than 30, the number of churn customers is 296, and the churn rate is 23 %.",
-                "items": []
-            },
-            {
-                "heading":"The age group "45-49" has the highest count of customers with 694 individuals, making up 10% of the total customer base.",
-                "items": []
-            },
-            {
-                "heading":"There are 51 different States. Most Churn Rate exits in California which is 63.2%. Besides, most customers and Churn customers exit in West Virginia.",
-                "items": []
-            },
-            {
-                "heading":"The lowest Churn rate exists in the District of Columbia. Which is 19.4%",
-                "items":[]
-            },
-           {
-                "heading":"Monthly Churn Rate is 46.6%. The yearly Churn Rate is 6.6%.Monthly Female Churn Rate is 47.3%, the male churn rate is 45.3%. Yearly Female Churn Rate is 6%, Male churn rate is 7.2%.",
-                "items":[]
             }
         ]
     }
