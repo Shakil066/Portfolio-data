@@ -25,7 +25,7 @@
     },
     {
         "id": 2,
-        "project_id": 4,
+        "project_id": 7,
         "title": "Unicorn Company Detais and go to the cumilla and buy somthing",
         "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -49,7 +49,7 @@
     },
      {
         "id": 3,
-        "project_id": 3,
+        "project_id": 2,
         "title": "Car Sales Analysis",
         "photo": "https://i.ibb.co/px9s1qt/Dashboard-1-4.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -73,8 +73,8 @@
     },
      {
         "id": 4,
-        "project_id": 6,
-        "title": "Car Sales Analysis",
+        "project_id": 5,
+        "title": "Analysis",
         "photo": "https://i.ibb.co/X7YL2wh/1693843258159.jpg",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
         "details": [
