@@ -88,19 +88,19 @@
             },
             {
                 "heading":"The age group "45-49" has the highest count of customers with 694 individuals, making up 10% of the total customer base.",
-                "items"  :[]
+                "items":[]
             },
             {
                 "heading":"There are 51 different States. Most Churn Rate exits in California which is 63.2%. Besides, most customers and Churn customers exit in West Virginia.",
-                "items"  :[]
+                "items":[]
             },
             {
                 "heading":"The lowest Churn rate exists in the District of Columbia. Which is 19.4%",
-                "items"  :[]
+                "items":[]
             },
            {
                 "heading":"Monthly Churn Rate is 46.6%. The yearly Churn Rate is 6.6%.Monthly Female Churn Rate is 47.3%, the male churn rate is 45.3%. Yearly Female Churn Rate is 6%, Male churn rate is 7.2%.",
-                "items"  :[]
+                "items":[]
             }
         ]
     }
