@@ -70,6 +70,39 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 4,
+        "project_id": 6,
+        "title": "Car Sales Analysis",
+        "photo": "https://i.ibb.co/X7YL2wh/1693843258159.jpg",
+        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
+        "details": [
+            {
+                "heading":"Total Customers is 6687 and unique customers are the same as total Customers",
+                "items": []
+            },
+            {
+                "heading":"Most churn Customers and Churn Rates exist when the Customers are above 30 years old. That is 1500 and 27.8%. On the other hand, when Customers are less than 30, the number of churn customers is 296, and the churn rate is 23 %.",
+                "items":[]
+            },
+            {
+                "heading":"The age group "45-49" has the highest count of customers with 694 individuals, making up 10% of the total customer base.",
+                "items"  :[]
+            },
+            {
+                "heading":"There are 51 different States. Most Churn Rate exits in California which is 63.2%. Besides, most customers and Churn customers exit in West Virginia.",
+                "items"  :[]
+            },
+            {
+                "heading":"The lowest Churn rate exists in the District of Columbia. Which is 19.4%",
+                "items"  :[]
+            },
+           {
+                "heading":"Monthly Churn Rate is 46.6%. The yearly Churn Rate is 6.6%.Monthly Female Churn Rate is 47.3%, the male churn rate is 45.3%. Yearly Female Churn Rate is 6%, Male churn rate is 7.2%.",
+                "items"  :[]
+            }
+        ]
     }
 ]
 
