@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "project_id":3,
         "title": "Car Sales Analysis",
         "photo": "https://i.ibb.co/Y3qKNgz/Dashboard-1-4.png",
@@ -69,7 +69,7 @@
     },
 
      {
-        "id": 2,
+        "id": 4,
         "project_id":4,
         "title": "The Customer Shopping",
         "photo": "https://i.ibb.co/0V5fNgf/20.png",
@@ -88,8 +88,27 @@
         ]
     },
        {
-        "id": 2,
+        "id": 5,
         "project_id":1,
+        "title": "Olympic Data Analysis ",
+        "photo": "https://i.ibb.co/YDsp6Ly/olympics-logo-svg8175301616568861190.png",
+        "github_url": "https://github.com/Shakil066/SQL/blob/main/Olympic%20Games",
+        "details": [
+            {
+                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
+                "items": []
+
+            },
+            {
+                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
+                "items"  : []
+
+            }
+        ]
+    },
+     {
+        "id": 6,
+        "project_id":7,
         "title": "Olympic Data Analysis ",
         "photo": "https://i.ibb.co/YDsp6Ly/olympics-logo-svg8175301616568861190.png",
         "github_url": "https://github.com/Shakil066/SQL/blob/main/Olympic%20Games",
