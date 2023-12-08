@@ -65,7 +65,7 @@
 
             },
             {
-                "heading:"",
+                "heading:"The growth of car sales is 23.59%.",
                 "items  :[]
             }
         ]
@@ -73,7 +73,7 @@
 
      {
         "id": 2,
-        "project_id":3,
+        "project_id":4,
         "title": "The Customer Shopping",
         "photo": "https://i.ibb.co/0V5fNgf/20.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -89,7 +89,7 @@
 
             },
             {
-                "heading:"",
+                "heading:"The growth of car sales is 23.59%.",
                 "items  :[]
             }
         ]
