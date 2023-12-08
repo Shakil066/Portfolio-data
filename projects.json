@@ -63,11 +63,8 @@
                 "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
                 "items"  : []
 
-            },
-            {
-                "heading:"The growth of car sales is 23.59%.",
-                "items"  :[]
             }
+            
         ]
     },
 
@@ -87,10 +84,6 @@
                 "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
                 "items"  : []
 
-            },
-            {
-                "heading:"The growth of car sales is 23.59%.",
-                "items"  :[]
             }
         ]
     }
