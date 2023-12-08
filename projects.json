@@ -73,7 +73,7 @@
         "project_id":4,
         "title": "The Customer Shopping",
         "photo": "https://i.ibb.co/0V5fNgf/20.png",
-        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
+        "kaggle_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
         "details": [
             {
                 "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
