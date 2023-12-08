@@ -55,12 +55,14 @@
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
         "details": [
             {
-                "heading": "Here Number of Continents is 6 that’s are Asia, Africa, South America, North America, Europe, and Oceania. The total Country is 46 and the total City is 257. The number of total Companies is 1075. The total Valuation of this 1075 Company is 3.71k Billion Dollars. Besides, all 1075 companies are divided by just 15 Industries.",
+                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
                 "items": []
+
             },
             {
-                "heading": "North America tops the list with a total valuation of $2,032 billion spread across 589 companies, demonstrating its strong presence in the startup ecosystem. Asia follows closely with $1,067 billion in valuation among 310 companies, while Europe lags behind with $503 billion across 143 companies. Oceania and South America have smaller valuations of $56 billion and $48 billion, respectively, with fewer companies. Africa's startup scene is budding with a total valuation of $5 billion across 3 companies.",
-                "items": []
+                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
+                "items"  : []
+
             },
             {
                 "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
