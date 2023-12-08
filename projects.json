@@ -67,7 +67,12 @@
             {
                 "heading":"There are five types of body-style cars. Most cars are SUV-style, whose number is 6374. Then Hatchback is 6128.",
                 "items"  : []  
+            },
+            {
+                "heading":" There are three color cars: red, black, and pale white. Most sales car color is pale white, whose percentage is 48%, then Black and Red.",
+                "items"  : []  
             }
+
 
             
         ]
