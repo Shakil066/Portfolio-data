@@ -15,14 +15,17 @@
                 "items": []
             },
             {
-                "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
-                "items": [
-                    "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
-                    "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
-                ]
+                "heading": "Startup valuations dominate the landscape at 67.16%, followed by low valuations at 25.95%. Medium valuations make up 4.99%, while ultra-high valuations account for 1.47%, and high valuations represent 0.44% of the total.",
+                "items"  : []
+            },
+            
+            {
+                "heading": "North America tops the list with a total valuation of $2,032 billion spread across 589 companies, demonstrating its strong presence in the startup ecosystem. Asia follows closely with $1,067 billion in valuation among 310 companies, while Europe lags behind with $503 billion across 143 companies. Oceania and South America have smaller valuations of $56 billion and $48 billion, respectively, with fewer companies. Africa's startup scene is budding with a total valuation of $5 billion across 3 companies.",
+                "items": []
             },
             {
-                "heading":"6.	 VALUATIONS are categorized into five groups. The majority, 719 companies, fall into the "Startup Valuation" range of 0 to 2 billion dollars. "Low Valuation" companies (3 to 10 billion dollars) total 284, while "Medium Valuation" (11 to 18 billion dollars) comprises 53 companies. A small number of businesses are categorized as "High Valuation" (19 to 30 billion dollars), with 5 in total. The elite category of "Ultra High Valuation" (more than 30 billion dollars) includes 13 companies, illustrating the diverse valuation landscape among startups.",
+                "heading":"VALUATIONS are categorized into five groups. The majority, 719 companies, fall into the Startup Valuation range of 0 to 2 billion dollars. Low Valuation companies (3 to 10 billion dollars) total 284, while Medium Valuation (11 to 18 billion dollars) comprises 53 companies. A small number of businesses are categorized as High Valuation (19 to 30 billion dollars), with 5 in total. The elite category of Ultra High Valuation (more than 30 billion dollars) includes 13 companies, illustrating the diverse valuation landscape among startups.",
+                "items" : []
             }
         ]
     },
@@ -42,7 +45,7 @@
                 "items": []
             },
             {
-                "heading": "7.	Startup valuations dominate the landscape at 67.16%, followed by low valuations at 25.95%. Medium valuations make up 4.99%, while ultra-high valuations account for 1.47%, and high valuations represent 0.44% of the total.",
+                "heading": "Startup valuations dominate the landscape at 67.16%, followed by low valuations at 25.95%. Medium valuations make up 4.99%, while ultra-high valuations account for 1.47%, and high valuations represent 0.44% of the total.",
                 "items"  : []
             },
             {
