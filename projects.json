@@ -48,39 +48,29 @@
         ]
     },
     {
-        "id": 3,
+        "id": 2,
         "project_id":3,
-        "title": "Car Sales Analysis",
-        "photo": "https://i.ibb.co/px9s1qt/Dashboard-1-4.png",
+        "title": "Unicorn Company Detais",
+        "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
         "details": [
             {
-                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
+                "heading": "Here Number of Continents is 6 that’s are Asia, Africa, South America, North America, Europe, and Oceania. The total Country is 46 and the total City is 257. The number of total Companies is 1075. The total Valuation of this 1075 Company is 3.71k Billion Dollars. Besides, all 1075 companies are divided by just 15 Industries.",
                 "items": []
             },
             {
-                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
-                "items"  : []
+                "heading": "North America tops the list with a total valuation of $2,032 billion spread across 589 companies, demonstrating its strong presence in the startup ecosystem. Asia follows closely with $1,067 billion in valuation among 310 companies, while Europe lags behind with $503 billion across 143 companies. Oceania and South America have smaller valuations of $56 billion and $48 billion, respectively, with fewer companies. Africa's startup scene is budding with a total valuation of $5 billion across 3 companies.",
+                "items": []
             },
             {
-                "heading":"The growth of car sales is 23.59%.",
-                "items"  : []  
-            },
-            {
-                "heading":"November and December are the two months where most of the cars are sold.",
-                "items"  : []  
-            },
-            {
-                "heading":" There are three color cars: red, black, and pale white. Most sales car color is pale white, whose percentage is 48%, then Black and Red.",
-                "items"  : []  
-            },
-            {
-                "heading":"There are five types of body-style cars. Most cars are SUV-style, whose number is 6374. Then Hatchback is 6128.",
-                "items"  : []  
+                "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
+                "items": [
+                    "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
+                    "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
+                ]
             }
         ]
     }
-   
    
 ]
 
