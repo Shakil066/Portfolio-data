@@ -25,7 +25,7 @@
     },
     {
         "id": 2,
-        "project_id":6,
+        "project_id":4,
         "title": "Unicorn Company Detais",
         "photo": "https://i.ibb.co/SNB7rfB/Unicorn-Company-02.png",
         "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
@@ -65,11 +65,32 @@
 
             },
             {
-                "heading": "The top 10 companies by valuation are led by Bytedance at $180 billion, followed by SHEIN and SpaceX tied at $100 billion each.",
-                "items": [
-                    "Stripe follows closely at $95 billion, with Klarna at $46 billion and Canva at $40 billion",
-                    "Checkout.com and Databricks also have valuations of $40 billion. Instacart is valued at $39 billion, and JUUL Labs at $38 billion, making them the top 10 most valuable companies in this list"
-                ]
+                "heading:"",
+                "items  :[]
+            }
+        ]
+    },
+
+     {
+        "id": 2,
+        "project_id":3,
+        "title": "The Customer Shopping",
+        "photo": "https://i.ibb.co/0V5fNgf/20.png",
+        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
+        "details": [
+            {
+                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
+                "items": []
+
+            },
+            {
+                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
+                "items"  : []
+
+            },
+            {
+                "heading:"",
+                "items  :[]
             }
         ]
     }
