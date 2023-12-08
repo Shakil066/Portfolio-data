@@ -52,7 +52,7 @@
         "project_id":3,
         "title": "Car Sales Analysis",
         "photo": "https://i.ibb.co/Y3qKNgz/Dashboard-1-4.png",
-        "github_url": "https://www.kaggle.com/code/ailashrafsakil/the-customer-shopping-preferences-dataset-eda",
+        "github_url": "https://public.tableau.com/app/profile/ali.ashraf.sakil/viz/CarSales_16947767028270/Dashboard1",
         "details": [
             {
                 "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
@@ -69,7 +69,7 @@
                 "items"  : []  
             },
             {
-                "heading":" There are three color cars: red, black, and pale white. Most sales car color is pale white, whose percentage is 48%, then Black and Red.",
+                "heading"." There are three color cars: red, black, and pale white. Most sales car color is pale white, whose percentage is 48%, then Black and Red.",
                 "items"  : []  
             }
 
