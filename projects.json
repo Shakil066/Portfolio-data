@@ -182,6 +182,25 @@
 
             }
         ]
+    },
+     {
+        "id": 8,
+        "project_id":3,
+        "title": " Call Center Data Analysis",
+        "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
+        "kaggle_url": "https://public.tableau.com/app/profile/ali.ashraf.sakil/viz/CallCenter_16931436769650/Dashboard1?publish=yes",
+        "details": [
+            {
+                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
+                "items": []
+
+            },
+            {
+                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
+                "items"  : []
+
+            }
+        ]
     }
    
 ]
