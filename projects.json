@@ -225,16 +225,16 @@
         "id": 11,
         "project_id":6,
         "title": "COVID Portfolio Project - Data Exploration",
-        "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
+        "photo": "https://alishafaghi.com/wp-content/uploads/2022/08/data-sql-exploration-780x470.png",
         "github_url": "https://github.com/Shakil066/SQL/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration",
         "details": [
             {
-                "heading":"Remove dublicate data.Standardize Data",
+                "heading":"",
                 "items": []
 
             },
             {
-                "heading":"Look at Null Values.remove any columns and rows we need to",
+                "heading":"",
                 "items"  : []
 
             }
