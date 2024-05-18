@@ -184,7 +184,7 @@
         ]
     },
      {
-        "id": 8,
+        "id": 9,
         "project_id":3,
         "title": " Call Center Data Analysis",
         "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 10,
         "project_id":5,
         "title": "Data Cleaning",
         "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
@@ -222,7 +222,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 11,
         "project_id":6,
         "title": "COVID Portfolio Project - Data Exploration",
         "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
