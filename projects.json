@@ -205,8 +205,8 @@
     {
         "id": 10,
         "project_id":5,
-        "title": "Data Cleaning",
-        "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
+        "title": "Data Cleaning by SQL",
+        "photo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M_1IDU9k4nfPzzczW-GIIQ.png",
         "github_url": "https://github.com/Shakil066/SQL/blob/main/data%20Cleaning",
         "details": [
             {
