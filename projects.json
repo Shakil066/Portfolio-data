@@ -98,27 +98,8 @@
             }
         ]
     },
-     {
-        "id": 5,
-        "project_id":7,
-        "title": "Olympic Data Analysis ",
-        "photo": "https://i.ibb.co/YDsp6Ly/olympics-logo-svg8175301616568861190.png",
-        "github_url": "https://github.com/Shakil066/SQL/blob/main/Olympic%20Games",
-        "details": [
-            {
-                "heading":"The total number of cars is 23904, and the total amount sold is 671.53 million dollars. It is $303 million in 2020 and $371 million in 2021.",
-                "items": []
-
-            },
-            {
-                "heading":"The number of customers is 3022. Where the male is 2737 and the female is 1737.",
-                "items"  : []
-
-            }
-        ]
-    },
     {
-        "id": 6,
+        "id": 5,
         "project_id":4,
         "title": " Fruits and Vegetables Prices Analysis ",
         "photo": "https://i.ibb.co/YDsp6Ly/olympics-logo-svg8175301616568861190.png",
@@ -137,7 +118,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 6,
         "project_id":3,
         "title": " Auto Sales Analysis",
         "photo": "https://i.ibb.co/fxsd1TB/Dashboard-1-6.png",
@@ -156,7 +137,7 @@
         ]
     },
      {
-        "id": 8,
+        "id": 7,
         "project_id":3,
         "title": " Call Center Data Analysis",
         "photo": "https://i.ibb.co/G0VSKf3/Dashboard-1-7.png",
@@ -175,7 +156,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 8,
         "project_id":5,
         "title": "Data Cleaning by SQL",
         "photo": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M_1IDU9k4nfPzzczW-GIIQ.png",
@@ -194,7 +175,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 9,
         "project_id":6,
         "title": "COVID Portfolio Project - Data Exploration",
         "photo": "https://alishafaghi.com/wp-content/uploads/2022/08/data-sql-exploration-780x470.png",
